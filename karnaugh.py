@@ -261,6 +261,10 @@ def demo1():
 			S, X1
 		)
 	)
+	
+	
+	# f = vec(0x35, 2**n)	# another way to input f
+		# f should be 0 0 1 1 0 1 0 1
 
 	# Karnaugh map mit Dezimalzahlen
 	m = kmapm(n)
